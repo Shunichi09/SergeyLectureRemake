@@ -12,4 +12,9 @@ https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37
 
 # 第一回
 
-[Introduction and Cource Overview]()
+[Introduction and Course Overview](https://speakerdeck.com/shunichi09/sergey-levine-lecture-remake-1st-introduction-and-overview)
+
+
+# 第二回
+
+[Coming Soon]()
