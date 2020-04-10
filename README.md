@@ -2,7 +2,6 @@
 Sergey Lecture Remake in Japanese
 
 sergeyの授業を日本語でまとめたものになります．
-数学的な補足も付けていく予定．
 
 参考資料
 http://rail.eecs.berkeley.edu/deeprlcourse-fa18/
@@ -17,4 +16,8 @@ https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37
 
 # 第二回
 
-[Coming Soon]()
+[Supervised Learning of behaviors](https://speakerdeck.com/shunichi09/sergey-levine-lecture-remake-2nd-supervised-learning-of-behaviors)
+
+# 第三回
+
+[Coming soon]()
