@@ -21,3 +21,8 @@ https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37
 # 第三回
 
 [Coming soon]()
+
+
+# 第十四回
+
+[Control as Inference](https://speakerdeck.com/shunichi09/sergey-levine-lecture-remake-14th-control-as-inference)
